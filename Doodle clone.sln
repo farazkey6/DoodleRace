@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doodle clone.Plugins", "Doodle clone.Plugins.csproj", "{400732FF-D78A-97E4-1873-6865132AB22B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Doodle clone.Editor.Plugins", "Doodle clone.Editor.Plugins.csproj", "{553DF3D5-4999-94E9-9AC1-8F31397CA124}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{400732FF-D78A-97E4-1873-6865132AB22B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400732FF-D78A-97E4-1873-6865132AB22B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400732FF-D78A-97E4-1873-6865132AB22B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400732FF-D78A-97E4-1873-6865132AB22B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553DF3D5-4999-94E9-9AC1-8F31397CA124}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553DF3D5-4999-94E9-9AC1-8F31397CA124}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553DF3D5-4999-94E9-9AC1-8F31397CA124}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553DF3D5-4999-94E9-9AC1-8F31397CA124}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
